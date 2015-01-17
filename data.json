@@ -28,7 +28,7 @@
 "social" : [{
 "shortname" : "twitter",
 "img" : "/images/misc/twitter.png",
-"url" : "http://www.twitter.com/rouxmeet"
+"url" : "http://www.twitter.com/grafikg"
 },{
 "shortname" : "facebook",
 "img" : "/images/misc/facebook.png",
@@ -36,7 +36,7 @@
 },{
 "shortname" : "linkedin",
 "img" : "/images/misc/linkedin.png",
-"url" : "http://www.linkedin.com/rouxmeet/"
+"url" : "http://www.linkedin.com/trishbonnette/"
 }],
  
 "meeting" : {
